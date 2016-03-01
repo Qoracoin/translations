@@ -1,0 +1,10 @@
+﻿{
+	"ru":{
+		"file": "ru.json",
+		"lang_name": "Русский",
+	},
+	"zh":{
+		"file": "zh.json",
+		"lang_name": "中文",
+	},
+}
