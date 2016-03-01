@@ -2,9 +2,11 @@
 	"ru":{
 		"file": "ru.json",
 		"lang_name": "Русский",
+		"time_of_translation": 1456832177000,
 	},
 	"zh":{
 		"file": "zh.json",
 		"lang_name": "中文",
+		"time_of_translation": 1456832177000,
 	},
 }
