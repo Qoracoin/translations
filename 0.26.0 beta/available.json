@@ -2,13 +2,13 @@
 	"ru": {
 		"file": "ru.json",
 		"download": "Скачать русский перевод",
-		"update from %timestamp%": "Скачать обновление русского перевода от %timestamp%",
+		"update from %date%": "Скачать обновление русского перевода от %date%",
 		"timestamp_of_translation": 1456832177000
 	},
 	"zh": {
 		"file": "zh.json",
 		"download": "下载中文翻译",
-		"update from %timestamp%": "下载最新情况中文翻译 %timestamp%",
+		"update from %date%": "下载最新情况中文翻译 %date%",
 		"timestamp_of_translation": 1456832177000
 	}
 }
