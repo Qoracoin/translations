@@ -1,14 +1,15 @@
 {
 	"ru": {
-		"file": "ru.json",
-		"download": "Скачать русский перевод",
-		"update from %date%": "Скачать обновление русского перевода от %date%",
-		"timestamp_of_translation": 1456879717000
+		"_file_": "ru.json",
+		"_timestamp_of_translation_": 1456879717000,
+		"download lang_name translation": "Скачать русский перевод",
+		"download update of lang_name translation from %date%": "Скачать обновление русского перевода от %date%",
+		
 	},
 	"zh": {
-		"file": "zh.json",
-		"download": "下载中文翻译",
-		"update from %date%": "下载最新情况中文翻译 %date%",
-		"timestamp_of_translation": 1456832177000
+		"_file_": "zh.json",
+		"_timestamp_of_translation_": 1456832177000,
+		"download lang_name translation": "下载中文翻译",
+		"download update of lang_name translation from %date%": "下载最新情况中文翻译 %date%",
 	}
 }
