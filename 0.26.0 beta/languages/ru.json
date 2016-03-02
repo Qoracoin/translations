@@ -1,7 +1,7 @@
 {
 	"lang":"ru",
 	"lang_name":"Русский",
-	"timestamp_of_translation": 1456832177000,
+	"timestamp_of_translation": 1456879717000,
 	" ( * optional field )":" ( * дополнительное поле )",
 	" and start the application again.":" и запустите приложение снова.",
 	" proposed by ":" полученному от ",
@@ -63,7 +63,7 @@
 	"AT will be enabled at !":"",
 	"AT":"AT",
 	"Attention!":"Внимание!",
-	"Back":"<<",
+	"Back":"Назад",
 	"Bad Json value":"Ошибка Json значения",
 	"Balance":"Баланс",
 	"Basic":"Основные",
@@ -317,7 +317,7 @@
 	"New account":"Новый счет",
 	"New Owner:":"Новый Владелец:",
 	"New Value:":"Новое Значение:",
-	"Next":">>",
+	"Next":"Далее",
 	"No connections":"Нет соединения",
 	"No existing wallet was found.":"Не найдено существующего кошелька.",
 	"No recipient defined":"Получатель не определен",
@@ -540,7 +540,7 @@
 	"Cancel Name Sale":"Отмена Продажи Имени",
 	"Name Purchase":"Покупка Имени",
 	"For forging wallet must be online and fully synchronized.":"Для генерации блоков кошелёк должен быть онлайн и полностью синхронизирован.",
-	"Apply":"Apply"
+	"Apply":"Применить"
 	"Poll Creation":"Создание Опроса",
 	"Poll Vote":"Голос Опроса",
 	"Arbitrary Transaction":"Произвольная Транзакция",

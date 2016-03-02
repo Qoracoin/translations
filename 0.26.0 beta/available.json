@@ -3,7 +3,7 @@
 		"file": "ru.json",
 		"download": "Скачать русский перевод",
 		"update from %date%": "Скачать обновление русского перевода от %date%",
-		"timestamp_of_translation": 1456832177000
+		"timestamp_of_translation": 1456879717000
 	},
 	"zh": {
 		"file": "zh.json",
