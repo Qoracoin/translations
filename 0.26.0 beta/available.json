@@ -8,7 +8,7 @@
 	},
 	"zh": {
 		"_file_": "zh.json",
-		"_lang_name_": "中文"
+		"_lang_name_": "中文",
 		"_timestamp_of_translation_": 1456832177000,
 		"download lang_name translation": "下载中文翻译",
 		"download update of lang_name translation from %date%": "下载从 %date%开始的中文翻译的更新"
