@@ -521,7 +521,7 @@
 	"You need to add atleast one key/value pair to properly update the name.":"Вам нужно добавить хотя бы одну пару ключ/значение, чтобы правильно обновить имя.",
 	"You":"Вы",
 	"Your wallet generation seed:":"Ваш Seed:",
-	"Your wallet is initialized":"Ваш кошелек инициализирован"
+	"Your wallet is initialized":"Ваш кошелек инициализирован",
 	"IP":"IP",
 	"Ping mc":"Пинг мс",
 	"Reliable":"Надёжность",
@@ -537,7 +537,7 @@
 	"Cancel Name Sale":"Отмена Продажи Имени",
 	"Name Purchase":"Покупка Имени",
 	"For forging wallet must be online and fully synchronized.":"Для генерации блоков кошелёк должен быть онлайн и полностью синхронизирован.",
-	"Apply":"Применить"
+	"Apply":"Применить",
 	"Poll Creation":"Создание Опроса",
 	"Poll Vote":"Голос Опроса",
 	"Arbitrary Transaction":"Произвольная Транзакция",
@@ -555,4 +555,5 @@
 	"No new translations": "Нет новых переводов",
 	"Download": "Скачать",
 	"Connecting to known peer %peer% :: %knownPeersCounter% / %allKnownPeers% :: Connections: %activeConnections%": "Подключение к известному пиру %peer% :: %knownPeersCounter% / %allKnownPeers% :: Подключения: %activeConnections%"
+	"Connecting to peer %newpeer% proposed by %peer% :: %foreignPeersCounter% / %maxReceivePeersForPrint% / %allReceivePeers% :: Connections: %activeConnections%": "Подключение к пиру %newpeer% полученному от %peer% :: %foreignPeersCounter% / %maxReceivePeersForPrint% / %allReceivePeers% :: Подключения: %activeConnections%"
 }
