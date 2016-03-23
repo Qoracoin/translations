@@ -552,6 +552,6 @@
 	"Peers":"Пиры",
 	"No new translations": "Нет новых переводов",
 	"Download": "Скачать",
-	"Connecting to known peer %peer% :: %knownPeersCounter% / %allKnownPeers% :: Connections: %activeConnections%": "Подключение к известному пиру %peer% :: %knownPeersCounter% / %allKnownPeers% :: Подключения: %activeConnections%"
+	"Connecting to known peer %peer% :: %knownPeersCounter% / %allKnownPeers% :: Connections: %activeConnections%": "Подключение к известному пиру %peer% :: %knownPeersCounter% / %allKnownPeers% :: Подключения: %activeConnections%",
 	"Connecting to peer %newpeer% proposed by %peer% :: %foreignPeersCounter% / %maxReceivePeersForPrint% / %allReceivePeers% :: Connections: %activeConnections%": "Подключение к пиру %newpeer% полученному от %peer% :: %foreignPeersCounter% / %maxReceivePeersForPrint% / %allReceivePeers% :: Подключения: %activeConnections%"
 }
