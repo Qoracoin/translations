@@ -113,12 +113,10 @@
 	"Confirmed Balance":"Подтвержденный Баланс",
 	"Connected now":"Подключен",
 	"Connected to self. Disconnection.":"Подключился сам к себе. Отключение.",
-	"Connecting to known peer ":"Подключение к известному пиру ",
 	"Connecting to peer ":"Подключение к пиру ",
 	"Connection close : ":"Подключение закрыто : ",
 	"Connection error : ":"Ошибка подключения : ",
 	"Connection successfull : ":"Удачное подключение : ",
-	"Connections: ":"Подключения: ",
 	"Console":"Консоль",
 	"Copy Address":"Копировать адрес",
 	"Copy All Messages":"Копировать все сообщения",
@@ -555,5 +553,6 @@
 	"d":"д",
 	"Peers":"Пиры",
 	"No new translations": "Нет новых переводов",
-	"Download": "Скачать"
+	"Download": "Скачать",
+	"Connecting to known peer %peer% :: %knownPeersCounter% / %allKnownPeers% :: Connections: %activeConnections%": "Подключение к известному пиру %peer% :: %knownPeersCounter% / %allKnownPeers% :: Подключения: %activeConnections%"
 }
