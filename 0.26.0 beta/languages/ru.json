@@ -640,5 +640,6 @@
 	"You are not allowed to delete this post! You need to be owner of the blog or author of the blogpost!": "Вы не имеете прав на удаление этой записи! Вы должны быть владельцем или автором записи в блоге!",
 	"You are not allowed to delete this comment! You need to be the owner of the blog or author of the comment!": "Вы не имеете прав на удаление этого комментария! Вы должны быть владельцем блога или автором комментария!",
 	"the signature parameter must be set!": "параметр 'сигнатура' должен быть задан!",	
+	"Unconfirmed": "Не подтверждено",
  	"":""
 }
