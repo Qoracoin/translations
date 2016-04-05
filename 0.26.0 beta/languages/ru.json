@@ -659,5 +659,8 @@
 	"Open Orders Volume": "Объём Открытых Ордеров",
 	"View": "Посмотреть",
 	"Go To": "Перейти",
+	"Peers loaded from database : %peers%": "Пиров загружено из базы данных : %peers%",
+	"Peers loaded from settings : %peers%": "Пиров загружено из файла настроек : %peers%",
+	"Interface language": "Язык интерфейса",
 	"":""
 }
