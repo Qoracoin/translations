@@ -1,6 +1,6 @@
 {
 	"_lang_name_":"Русский",
-	"_timestamp_of_translation_": 1459730775000,
+	"_timestamp_of_translation_": 1459730776000,
 	" ( * optional field )":" ( * дополнительное поле )",
 	" and start the application again.":" и запустите приложение снова.",
 	"( DO NOT USE your wallet's password. )":"( Не используйте пароль кошелька! )",
@@ -75,6 +75,7 @@
 	"Broadcasting end":"Конец вещания",
 	"Broadcasting":"Вещание",
 	"Browse...":"Обзор...",
+	"Browse":"Обзор",
 	"Build date: ":"Дата сборки: ",
 	"Built-in BlockExplorer":"Встроенный BlockExplorer",
 	"BURST":"",
@@ -146,6 +147,7 @@
 	"Data dir:":"Папка Данных:",
 	"Data error!":"Ошибка данных!",
 	"Data:":"Дата:",
+	"Data": "Данные",
 	"Dead:":"Мёртв:",
 	"Frozen:": "Заморожен:",
 	"Debug information": "Отладочная информация",
@@ -662,5 +664,14 @@
 	"Peers loaded from database : %peers%": "Пиров загружено из базы данных : %peers%",
 	"Peers loaded from settings : %peers%": "Пиров загружено из файла настроек : %peers%",
 	"Interface language": "Язык интерфейса",
+	"Submitting...": "Отправка...",
+	"Visual editor": "Визуальный редактор",
+	"Preview": "Просмотр",
+	"Upload": "Загрузить",
+	"Upload File":"Загрузить файл",
+	"Key (use key website or leave it blank to create a website)": "Ключ (установите ключ website или оставте пустым для создания вебсайта)",
+	"Create or update keys in namestorage": "Создать или обновить ключ в хранилище имён",
+	"Max Amount": "Максимальное Количество",
+	"Amount (Optional/Default 20)": "Количество (Опционально/По умолчанию 20)",
 	"":""
 }
